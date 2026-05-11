@@ -17,3 +17,4 @@ Data Scientist & Software Developer based in Nairobi, Kenya.
 📧 kelvinwathoni@gmail.com
 📱 +254 711 444 940
 🔗 linkedin.com/in/kelvin-wathoni
+Portfolio hosted using GitHub Pages.
